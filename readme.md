@@ -16,7 +16,10 @@ A terminal-based chess game featuring a pure reinforcement learning engine that 
 ```bash
 curl -sSL https://raw.githubusercontent.com/frgmt0/chessrl/main/install.sh | bash
 ```
-
+Or the simpler way:
+```bash
+cargo install chessrl
+```
 ## Usage
 
 Start a new game:
