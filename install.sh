@@ -13,7 +13,7 @@ cd chessrl
 
 # Build and install
 cargo build --release
-sudo mv target/release/chess /usr/local/bin/chessrl
+sudo mv target/release/chessrl /usr/local/bin/chessrl
 
 echo "ChessRL has been installed successfully!"
 echo "Start a new game by typing: chessrl"
