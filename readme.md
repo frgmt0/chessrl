@@ -14,7 +14,7 @@ A terminal-based chess game featuring a pure reinforcement learning engine that 
 ## Installation
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/yourusername/chessrl/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/frgmt0/chessrl/main/install.sh | bash
 ```
 
 ## Usage

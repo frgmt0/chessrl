@@ -8,7 +8,7 @@ if ! command -v rustc &> /dev/null; then
 fi
 
 # Clone the repository
-git clone https://github.com/yourusername/chessrl.git
+git clone https://github.com/frgmt0/chessrl.git
 cd chessrl
 
 # Build and install
