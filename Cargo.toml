@@ -1,6 +1,9 @@
 [package]
 name = "chessrl"
 version = "0.0.1"
+authors = ["frgmt0 <jason.awz2005@icloud.com>"]
+description = "A chess engine/game written in Rust"
+license = "MIT"
 edition = "2021"
 
 [dependencies]
